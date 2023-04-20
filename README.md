@@ -1,4 +1,4 @@
 # Kiwon's Tutoring
 ## Overview
-* Schedule: Every friday 8-10pm (EST)
-* Contact: Kiwon Yun (kiwon.coding@gmail.com)
+* Schedule: Friday 8-10pm (EST)
+* Contact: Kiwon Yun: (put my first name).coding@gmail.com

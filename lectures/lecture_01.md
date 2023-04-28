@@ -14,3 +14,9 @@
 * `git --version`
 * `git config --global user.name "YOUR NAME"`
 * `git config --global user.email "YOUR@EMAIL.com"`
+* `git clone <github address>`
+* `git status`
+* `git commit -a -m "<your message>"`
+* `git push`
+* `git add [filename]`
+* https://education.github.com/git-cheat-sheet-education.pdf

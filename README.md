@@ -4,4 +4,4 @@
 * Contact: kiwon.coding@gmail.com + KakaoTalk
 
 # Lectures
-* [a link](lectures/lecture_01.md)
+* [Lecture_01](lectures/lecture_01.md)

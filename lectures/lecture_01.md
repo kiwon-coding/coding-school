@@ -20,3 +20,6 @@
 * `git push`
 * `git add [filename]`
 * https://education.github.com/git-cheat-sheet-education.pdf
+
+# ChatGPT
+* https://chat.openai.com/

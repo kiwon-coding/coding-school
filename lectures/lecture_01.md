@@ -25,5 +25,5 @@
 * https://chat.openai.com/
 
 # VSCode
-* `cd <your project folder`
+* `cd <your project folder>`
 * `code .`

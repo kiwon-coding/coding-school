@@ -10,7 +10,7 @@
 # Markdown
 * https://www.markdownguide.org/cheat-sheet/
 
-# Learning git commands
+# Git commands
 * `git --version`
 * `git config --global user.name "YOUR NAME"`
 * `git config --global user.email "YOUR@EMAIL.com"`
@@ -23,3 +23,7 @@
 
 # ChatGPT
 * https://chat.openai.com/
+
+# VSCode
+* `cd <your project folder`
+* `code .`

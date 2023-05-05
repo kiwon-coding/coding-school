@@ -1,4 +1,4 @@
-## History of GPT models
+# History of GPT models
 * OpenAI
 * GPT (Generative Pre-trained Transformer)
 * GPT1 (2018) to GPT4 (2023)

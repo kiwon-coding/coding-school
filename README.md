@@ -7,10 +7,12 @@
 - [x] 4/21
 - [x] 4/28
 - [x] 5/5
+- [ ] 5/12 (skip)
 - [x] 5/19
 - [ ] 5/26
 - [ ] 6/4 (Sun)
-- [ ] 6/11
+- [ ] 6/9 (skip)
+- [ ] 6/16
 
 # Lectures
 * [Lecture_01](lectures/lecture_01.md)

@@ -13,3 +13,6 @@ description::pine trees in forest
 ```
 ["#1B4D3E", "#2C5F2D", "#355E3B", "#1F3D2C", "#2E4F2E"]
 ```
+* temperature = 0.8
+* max_token = 50
+* model = gpt-turbo-3.5

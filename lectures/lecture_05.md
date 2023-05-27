@@ -2,5 +2,5 @@
 * `pip install pipenv`
 * `pipenv shell`
 * `pipenv install flask openai`
-* `pip requirements > requirements.txt`
-* `pip install -r requirements.txt`
+* `pipenv requirements > requirements.txt`
+* `pipenv install -r requirements.txt`

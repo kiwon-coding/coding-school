@@ -1,5 +1,4 @@
 # pipenv
-* 
 * install: `pip install pipenv`
 * create or set: `pipenv shell`
 * install packages: `pipenv install flask openai`

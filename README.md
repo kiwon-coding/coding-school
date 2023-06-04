@@ -20,3 +20,4 @@
 * [Lecture_03](lectures/lecture_03.md)
 * [Lecture_04](lectures/lecture_04.md)
 * [Lecture_05](lectures/lecture_05.md)
+* [Lecture_06](lectures/lecture_06.md)

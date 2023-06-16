@@ -17,6 +17,10 @@
   * Download winscp
   * import from putty
   * setup auth (adv menu)
+* Troubleshooting
+  * request timeout
+    * If your IP address is changed, your local machine cannot be recognized by the server.
+    * check EC2 > Security Groups > edit inbound rules > Source MY IP
 
 # Dev env setup on ec2 server
 * install git

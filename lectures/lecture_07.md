@@ -1,5 +1,5 @@
 # Dev Env
-* Set OPENAPI_KEY in ~/.bash_profile
+* Set OPENAI_API_KEY in ~/.bash_profile
   * `vi .bash_profile`
 * Run a python script in the backgroun
   * `nohup python my_script.py > my_output.log &`

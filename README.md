@@ -1,6 +1,6 @@
 # Kiwon's Tutoring
 ## Overview
-* Schedule: Friday 8-10pm (EST) -> Sunday 8-10pm
+* Schedule: Sunday 8-10pm (EST)
 * Contact: kiwon.coding@gmail.com + KakaoTalk
 
 # Schedule
@@ -11,9 +11,9 @@
 - [x] 5/26
 - [x] 6/4 (Sun)
 - [x] 6/16
-- [ ] 6/25 (Sun)
-- [ ] 7/2 (Sun)
-- [ ] 7/9 (Sun)
+- [x] 6/25 (Sun)
+- [ ] 7/2
+- [ ] 7/9
 
 # Lectures
 * [Lecture_01](lectures/lecture_01.md)
@@ -23,3 +23,4 @@
 * [Lecture_05](lectures/lecture_05.md)
 * [Lecture_06](lectures/lecture_06.md)
 * [Lecture_07](lectures/lecture_07.md)
+* [Lecture_08](lectures/lecture_08.md)

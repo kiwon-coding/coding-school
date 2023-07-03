@@ -1,2 +1,2 @@
-* [word data sample](lectures/words.csv)
-* [speech data sample](lectures/fed-speech.csv)
+* [word data sample](words.csv)
+* [speech data sample](fed-speech.csv)

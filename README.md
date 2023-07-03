@@ -24,3 +24,4 @@
 * [Lecture_06](lectures/lecture_06.md)
 * [Lecture_07](lectures/lecture_07.md)
 * [Lecture_08](lectures/lecture_08.md)
+* [Lecture_09](lectures/lecture_09.md)

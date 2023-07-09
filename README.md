@@ -12,8 +12,10 @@
 - [x] 6/4 (Sun)
 - [x] 6/16
 - [x] 6/25 (Sun)
-- [ ] 7/2
-- [ ] 7/9
+- [x] 7/2
+- [x] 7/9
+- [ ] 7/16
+- [ ] 7/23?
 
 # Lectures
 * [Lecture_01](lectures/lecture_01.md)

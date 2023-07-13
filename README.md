@@ -4,15 +4,15 @@
 * Contact: kiwon.coding@gmail.com + KakaoTalk
 
 # Schedule
-- [x] 4/21
-- [x] 4/28
-- [x] 5/5
-- [x] 5/19
-- [x] 5/26
+- [x] 4/21 (Fri)
+- [x] 4/28 (Fri)
+- [x] 5/5 (Fri)
+- [x] 5/19 (Fri)
+- [x] 5/26 (Fri)
 - [x] 6/4 (Sun)
-- [x] 6/16
+- [x] 6/16 (Fri)
 - [x] 6/25 (Sun)
-- [x] 7/2
+- [x] 7/2 (Fri)
 - [x] 7/9 (Sun, 6pm)
 - [ ] 7/18 (Tues, 8pm)
 - [ ] 8/1 (Tues, 8pm)

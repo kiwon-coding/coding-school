@@ -1,1 +1,1 @@
-* [LangChain](https://python.langchain.com/docs/get_started/introduction.html)
+* [LangChain](https://python.langchain.com)

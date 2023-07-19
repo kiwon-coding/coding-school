@@ -14,7 +14,7 @@
 - [x] 6/25 (Sun)
 - [x] 7/2 (Fri)
 - [x] 7/9 (Sun, 6pm)
-- [ ] 7/18 (Tues, 8pm)
+- [x] 7/18 (Tues, 8:30pm)
 - [ ] 8/1 (Tues, 8pm)
 - [ ] 8/6 (Sun, 8pm)
 
@@ -28,3 +28,5 @@
 * [Lecture_07](lectures/lecture_07.md)
 * [Lecture_08](lectures/lecture_08.md)
 * [Lecture_09](lectures/lecture_09.md)
+* [Lecture_10](lectures/lecture_10.md)
+* [Lecture_11](lectures/lecture_11.md)

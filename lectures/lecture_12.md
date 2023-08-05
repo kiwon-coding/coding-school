@@ -1,10 +1,10 @@
 # Topic
-* langchain + streamlit
+ * langchain + streamlit
 
 # Data
-* https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/
-** Amazon review data (2018)
-** AMAZON FASHION reviews (883,636 reviews)
+ * https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/
+ ** Amazon review data (2018)
+ ** AMAZON FASHION reviews (883,636 reviews)
 
 # Code
 ```

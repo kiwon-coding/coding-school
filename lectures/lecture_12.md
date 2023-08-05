@@ -1,5 +1,12 @@
+# Topic
 * langchain + streamlit
 
+# Data
+* https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/
+** Amazon review data (2018)
+** AMAZON FASHION reviews (883,636 reviews)
+
+# Code
 ```
 import pandas as pd
 import json
@@ -13,6 +20,9 @@ from langchain.prompts.chat import (
     HumanMessagePromptTemplate
 )
 
+from tqdm import tqdm 
+import ast
+
 def load_review_data():
     json_file_path = './data/amazon_fashion_simple.json'
     with open(json_file_path, 'r') as f:
@@ -20,7 +30,16 @@ def load_review_data():
 
     return pd.DataFrame(json_data)
     
-def request_openai():
+def parse_string_to_list(string_data):
+    try:
+        parsed_list = ast.literal_eval(string_data)
+        return parsed_list
+    except Exception as e:
+        print(string_data)
+        print("Error parsing string:", e)
+        return []
+
+def get_taggings(review_text):
     chat = ChatOpenAI(openai_api_key = os.getenv("OPENAI_API_KEY"))
 
     template = "A tagging system that creates tags for use in an online shopping mall."
@@ -30,15 +49,29 @@ def request_openai():
     chat_prompt = ChatPromptTemplate.from_messages([system_message_prompt, human_message_prompt])
 
     chain = LLMChain(llm=chat, prompt=chat_prompt)
+    res = chain.run(text = review_text)
 
-    review_sample = "Love these... I am going to order another pack to keep in work; someone (including myself) is always losing the back to an earring.  I don't understand why all fish hook earrings don't have them.  Just wish that they were a tiny bit longer.  :)"
-    res = chain.run(text = review_sample)
-    return res
+    tags = parse_string_to_list(res)
+
+    return tags
+
+def load_review_tags():
+    review_tags = pd.read_csv('./data/amazon_fashion_review_tags.csv')
+    return review_tags
 
 if __name__ == '__main__':
-    df = load_review_data()
-    print(df)
+    reviews = load_review_data()
 
-    res = request_openai()
-    print(res)
+    tqdm.pandas()
+    reviews['tags'] = reviews.progress_apply(lambda x: get_taggings(x['reviewText']), axis=1)
+    reviews.to_csv('./data/amazon_fashion_review_tags.csv', index=False)
+    
+    all_tags = {}
+    review_tags = load_review_tags()
+    tag_column_df = review_tags['tags'].apply(ast.literal_eval)
+    for tags in tag_column_df:
+        for tag in tags:
+            all_tags[tag] = all_tags.get(tag, 0) + 1
+    
+    print(dict(sorted(all_tags.items(), key=lambda item: item[1])))
 ```

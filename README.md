@@ -33,3 +33,4 @@
 * [Lecture_09](lectures/lecture_09.md)
 * [Lecture_10](lectures/lecture_10.md)
 * [Lecture_11](lectures/lecture_11.md)
+* [Lecture_11](lectures/lecture_12.md)

@@ -17,9 +17,9 @@
 - [x] 7/18 (Tues, 8:30pm)
 - [x] 8/1 (Tues, 8pm)
 - [x] 8/5 (Sat, 8pm)
-- [ ] 8/12 (Sat, 8pm)
-- [ ] 8/20 (Sun, 8pm)
+- [x] 8/12 (Sat, 8pm)
 - [ ] 8/27 (Sun, 8pm)
+- [ ] 9/3 (Sun, 8pm)
 
 # Lectures
 * [Lecture_01](lectures/lecture_01.md)

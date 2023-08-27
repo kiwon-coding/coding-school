@@ -1,3 +1,6 @@
+# Tutorial
+* https://python.langchain.com/docs/use_cases/question_answering/
+
 ```
 from langchain.document_loaders import TextLoader
 from langchain.document_loaders import WebBaseLoader

@@ -35,3 +35,4 @@
 * [Lecture_11](lectures/lecture_11.md)
 * [Lecture_12](lectures/lecture_12.md)
 * [Lecture_13](lectures/lecture_13.md)
+* [Lecture_14](lectures/lecture_14.md)

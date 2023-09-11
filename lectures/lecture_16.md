@@ -1,6 +1,6 @@
 # Pipenv Tips
 * How to create "requirements.txt"
-    * pipenv requirements > requirements.txt
+    * `pipenv requirements > requirements.txt`
 
 # Sample Streamlit Deploy Code
 ```

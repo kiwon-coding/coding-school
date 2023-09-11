@@ -18,8 +18,10 @@
 - [x] 8/1 (Tues, 8pm)
 - [x] 8/5 (Sat, 8pm)
 - [x] 8/12 (Sat, 8pm)
-- [ ] 8/27 (Sun, 8pm)
-- [ ] 9/3 (Sun, 8pm)
+- [x] 8/27 (Sun, 8pm)
+- [x] 9/3
+- [x] 9/11
+- [ ] 9/18
 
 # Lectures
 * [Lecture_01](lectures/lecture_01.md)
@@ -33,6 +35,7 @@
 * [Lecture_09](lectures/lecture_09.md)
 * [Lecture_10](lectures/lecture_10.md)
 * [Lecture_11](lectures/lecture_11.md)
+* [Lecture_12](lectures/lecture_12.md)
 * [Lecture_12](lectures/lecture_12.md)
 * [Lecture_13](lectures/lecture_13.md)
 * [Lecture_14](lectures/lecture_14.md)

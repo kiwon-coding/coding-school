@@ -1,3 +1,8 @@
+# Pipenv Tips
+* How to create "requirements.txt"
+    * pipenv requirements > requirements.txt
+
+# Sample Streamlit Deploy Code
 ```
 import streamlit as st
 import openai

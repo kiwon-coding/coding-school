@@ -47,4 +47,4 @@
 * [Lecture_14](lectures/lecture_14.md)
 * [Lecture_15](lectures/lecture_15.md)
 * [Lecture_16](lectures/lecture_16.md)
-* [Lecture_16](lectures/lecture_17.md)
+* [Lecture_17](lectures/lecture_17.md)

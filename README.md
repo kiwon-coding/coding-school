@@ -27,7 +27,7 @@
 - [x] 10/15
 - [x] 10/22
 - [x] 10/28
-- [ ] 10/29
+- [x] 10/29
 - [ ] 11/5
 
 # Lectures
@@ -48,3 +48,4 @@
 * [Lecture_15](lectures/lecture_15.md)
 * [Lecture_16](lectures/lecture_16.md)
 * [Lecture_17](lectures/lecture_17.md)
+* [Lecture_18](lectures/lecture_18.md)

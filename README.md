@@ -50,3 +50,4 @@
 * [Lecture_16](lectures/lecture_16.md)
 * [Lecture_17](lectures/lecture_17.md)
 * [Lecture_18](lectures/lecture_18.md)
+* [Lecture_19](lectures/lecture_19.md)

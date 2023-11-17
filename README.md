@@ -30,6 +30,8 @@
 - [x] 10/29
 - [x] 11/5
 - [x] 11/12
+- [ ] 11/20 (Mon 8pm)
+- [ ] 11/26
 
 # Lectures
 * [Lecture_01](lectures/lecture_01.md)

@@ -4,41 +4,23 @@
 * Contact: kiwon.coding@gmail.com + KakaoTalk
 
 # Schedule
-> See all
-  - [x] 4/21 (Fri)
-  - [x] 4/28 (Fri)
-- [x] 5/5 (Fri)
-- [x] 5/19 (Fri)
-- [x] 5/26 (Fri)
-- [x] 6/4 (Sun)
-- [x] 6/16 (Fri)
-- [x] 6/25 (Sun)
-- [x] 7/2 (Fri)
-- [x] 7/9 (Sun, 6pm)
-- [x] 7/18 (Tues, 8:30pm)
-- [x] 8/1 (Tues, 8pm)
-- [x] 8/5 (Sat, 8pm)
-- [x] 8/12 (Sat, 8pm)
-- [x] 8/27 (Sun, 8pm)
-- [x] 9/3
-- [x] 9/10
-- [x] 9/17
-- [x] 9/24 (9pm)
-- [x] 10/8
-- [x] 10/15
-- [x] 10/22
-- [x] 10/28
-- [x] 10/29
-- [x] 11/5
-- [x] 11/12
-- [x] 11/20 (Mon 8pm)
-- [x] 11/26
-- [x] 12/3
-- [x] 12/10
-- [x] 12/17
-- [ ] 1/7
+* ML, AI, OpenAI
+  - 4/21 (Fri), 4/28 (Fri)
+  - 5/5 (Fri), 5/19 (Fri), 5/26 (Fri)
+  - 6/4 (Sun), 6/16 (Fri), 6/25 (Sun)
+  - 7/2 (Fri), 7/9 (Sun, 6pm), 7/18 (Tues, 8:30pm)
+  - 8/1 (Tues, 8pm), 8/5 (Sat, 8pm), 8/12 (Sat, 8pm), 8/27 (Sun, 8pm)
+  - 9/3, 9/10, 9/17, 9/24 (9pm)
+  - 10/8, 10/15, 10/22, 10/28, 10/29
+  - 11/5, 11/12, 11/20 (Mon 8pm), 11/26
+  - 12/3, 12/10, 12/17
+* USACO
+  - 1/7, 1/14, 1/19, 1/24
+  - 2/4, 2/11, 2/18, 2/25
+  - 3/3, 3/10, 3/17, 3/24, 3/31
+  - 4/7, 4/14, 4/28
 
-# Lectures
+# ML, AI, OpenAI Lectures
 * [Lecture_01](lectures/lecture_01.md)
 * [Lecture_02](lectures/lecture_02.md)
 * [Lecture_03](lectures/lecture_03.md)

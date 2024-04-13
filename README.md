@@ -17,9 +17,11 @@
 * USACO
   - 1/7, 1/14, 1/19, 1/24
   - 2/4, 2/11, 2/18, 2/25
-  - 3/3, 3/10, 3/17, 3/24, 3/31
+  - 3/3, 3/10, 3/17, 3/24
+* Full-stack course
+  - 3/31
   - 4/7, 4/14, 4/28
-
+  
 # ML, AI, OpenAI Lectures
 * [Lecture_01](lectures/lecture_01.md)
 * [Lecture_02](lectures/lecture_02.md)
